@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%8900eb&lines=Julia+Mekhtieva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%8900eb&lines=Julia+Mekhtieva)](https://github.com/juliamekh)
 
 ### Programming Languages:
 Python Java
