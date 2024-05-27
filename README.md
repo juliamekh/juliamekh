@@ -9,5 +9,5 @@ Flask Django Spring Boot
 
 
 ### Tools and Technologies:
-SQL Git MongoDB Beautiful Soup Docker phpMyAdmin HTML/CSS Bootstrap API Linux MacOS Colab Network Systems
+SQL Git MongoDB VirtualBox Beautiful Soup Docker phpMyAdmin HTML/CSS Bootstrap API Linux MacOS Colab Network Systems
 
