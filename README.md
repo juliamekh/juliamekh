@@ -4,10 +4,11 @@
 Python Java
 
 ### Libraries and Frameworks:
-Numpy Pandas PyTorch Scikit-Learn Scipy Matplotlib Seaborn NLP 
-Flask Django Spring Boot
+Numpy Pandas PyTorch Scikit-Learn Scipy Matplotlib 
+
+Django Spring Boot
 
 
 ### Tools and Technologies:
-SQL Git MongoDB VirtualBox Beautiful Soup Docker phpMyAdmin HTML/CSS Bootstrap API Linux MacOS Colab Network Systems
+SQL Git Docker HTML/CSS RESTful_API
 
