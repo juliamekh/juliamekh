@@ -6,7 +6,7 @@ Python Java
 ### Libraries and Frameworks:
 Numpy Pandas PyTorch Scikit-Learn Scipy Matplotlib 
 
-Django Spring Boot
+Django Flask Spring Boot
 
 
 ### Tools and Technologies:
